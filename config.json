@@ -1,23 +1,21 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "yugalitree",
+  "name": "Lou Lin",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "A graduate student from NKNU Fine Art Dept",
+    "Web UI designer",
+    "HTML 4 years",
+    "CSS 4 years",
+    "Freelance 1 year",
+    "UX researcher 6 month",
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "Movies",
+    "Reading",
+    "Comic books"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "github": "https://github.com/Yugalitree"
 }
